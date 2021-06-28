@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @alanmartiola
 - 👀 I’m interested in Web and Multiplatform Development
-- 🌱 I’m currently studying Web Applications Developement
+- 🌱 I’m currently studying Web Applications Development
